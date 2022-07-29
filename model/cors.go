@@ -17,7 +17,7 @@ var (
 	allowHeadersBool bool
 )
 
-// Set up cross-domain utility functions
+// Set up cross-domain utility function
 func setCorsFunc(w *http.ResponseWriter) {
 	if allowOriginBool {
 		(*w).Header().Set("Access-Control-Allow-Origin", allowOrigin)
