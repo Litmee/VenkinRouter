@@ -2,7 +2,7 @@ package model
 
 import "net/http"
 
-// Controller Control Layer Interface Model.
+// Controller Control Layer Interface Model
 // Used to define the type of request
 // Get()      Http GET Request
 // Post()     Http POST Request
