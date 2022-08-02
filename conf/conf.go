@@ -1,6 +1,6 @@
 package conf
 
-// Ip ip parameter.
+// Ip ip parameter
 const Ip = "127.0.0.1:"
 
 // DefaultWebConf Default global configuration parameters
