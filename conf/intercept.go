@@ -2,7 +2,7 @@ package conf
 
 import "net/http"
 
-// IsGlobalInterceptor Global interceptor parameters.
+// IsGlobalInterceptor Global interceptor parameters
 var IsGlobalInterceptor GlobalInterceptor
 
 // GlobalInterceptor Global interceptor interface
